@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-DemoApplication<time>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.revature.time.time.DemoApplication",
+      "projectName": "time",
+      "args": "",
+      "env": {
+        "DB_USER": "devjames98",
+        "DB_PASS": "n00b3rl1f3",
+        "DB_HOST": "javareact2002.crtdildu21ho.us-east-2.rds.amazonaws.com",
+        "DB_PORT": 5432,
+        "DB_NAME": "postgres",
+        "DB_SCHEMA": "postgres"
+      }
+    }
+  ]
+}
